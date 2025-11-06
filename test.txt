@@ -1,4 +1,9 @@
 print("Hello")
+New line two
+What is the Text Editor widget?
+The Text Editor widget is a versatile tool that allows you to add and customize text content on your website. It uses the TinyMCE WYSIWYG editor, which is similar to the classic WordPress visual editor. You can add headings, paragraphs, lists, and even include images and videos seamlessly.
+
+In addition to the features that generally appear on the TinyMCE editor, this widget also gives you more styling options that let you change settings like font weight, line height, letter spacing, alignment, and more.
 Learn everything that you need to know to demystify machine learning, from the first principles in the new programming paradigm to creating convolutional neural networks for advanced image recognition and classification that solve common computer-vision problems.
 
 6 activities • 1 quiz
